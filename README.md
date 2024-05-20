@@ -167,3 +167,6 @@ This project is open-source and licensed under `MIT LICENSE`. Feel free to use, 
 We extend our heartfelt gratitude to the individuals and teams whose dedication and hard work made the Spotify++ project possible. Their contributions have been invaluable:
 - SpotCompiled/SpotC-Plus-Plus: For compiling Spotilife + Sposify IPA's and facilitating their accessibility.
 - iTweaked Store: For providing the official Spotify++ IPA for direct download.
+
+***
+<sup>We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.</sup>
